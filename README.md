@@ -21,6 +21,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bertrand2808&show_icons=true&theme=radical)
 <!-- </p>
 <h3>Open source projects</h3>
 <table>
