@@ -100,10 +100,13 @@ Aujourd’hui je construis :
 ## 📫 Contact
 - DM sur **LinkedIn** · réponses rapides
 - Issues/PR bienvenues sur les repos publics
+- You can also reach me on **Discord** at `bertrand2808`
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/bertrand_dev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/bertrandr_dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bertrand-renaudin)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/bertrand_dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/bertrand2808)
+
 ---
 
 <details>
