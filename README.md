@@ -1,7 +1,7 @@
 <!-- Profile README — Bertrand Renaudin -->
 <h1 align="center">Bertrand Renaudin</h1>
 <p align="center">
-  Full-stack Developer · Lyon, France · Clean/Hexagonal Architecture
+  Full-stack Developer · Lyon, France · Clean / Hexagonal Architecture
 </p>
 
 <p align="center">
@@ -11,19 +11,28 @@
   <a href="https://www.linkedin.com/in/bertrand-renaudin">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bertrand--renaudin-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://dev.to/bertrandr_dev">
+    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white">
+  </a>
+  <a href="https://x.com/bertrand_dev">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/bertrand2808">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 👋 À propos
-Développeur full-stack orienté **architecture propre (Clean/Hexagonal)**, j’aime transformer des idées en produits simples, testés et déployables.
-Aujourd’hui je construis :
-- **FreelanSign** — SaaS pour freelances (devis, factures, signatures, CGV) · *Django + React/Next.js + PostgreSQL + Stripe*
-- **HexAPI Generator** — Générateur d’API Java hexagonales depuis des schémas JSON · *Python + Jinja2 + Tkinter*
+
+Je conçois des produits **simples, testés et déployables**. J’aime transformer des specs floues en systèmes clairs, avec des limites explicites entre métier et I/O.
+
+Stack de prédilection : **Java/Quarkus & Spring**, **Python/Django-DRF**, **TypeScript/React-Next/Nest**.
 
 ---
 
-## 🧰 Stack & outils (sélection)
+## 🧰 Stack
 
 **Back-end**
 - **Java** (Spring Boot, **Quarkus**), JPA/Hibernate, MapStruct, Validation
@@ -78,24 +87,6 @@ Aujourd’hui je construis :
 
 ---
 
-## 🚀 Projets en cours
-- **FreelanSign** — Plateforme pour générer devis/factures/CGV, signer et encaisser simplement.
-  _Stack : Django, DRF, Next.js (TS), Tailwind, PostgreSQL, Stripe, Keycloak._
-
-- **HexAPI Generator** — Donnez une entité (JSON) → générez Entity/Mapper/Ports/Adapters/Controllers.
-  _Stack : Python, Jinja2, Tkinter · cible Java/Quarkus/Spring._
-
-> Voir mes *pinned repos* ci-dessous pour les détails et la roadmap.
-
----
-
-## 📐 Convictions d’archi
-- Domain first · **Ports/Adapters** · découplage via interfaces & DTO
-- **Tests** rapides, isolés, lisibles · CI stricte · qualité mesurée (coverage/sonar)
-- Vrais **pipelines** (build → tests → lint → package → release → deploy)
-- **Docs** courtes mais vivantes (ADR, README, OpenAPI)
-
----
 
 ## 📫 Contact
 - DM sur **LinkedIn** · réponses rapides
